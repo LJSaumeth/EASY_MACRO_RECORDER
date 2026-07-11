@@ -131,9 +131,13 @@ class GlobalHotkeyListener:
     def start(self) -> None:
         if self._is_running:
             return
-        self._is_running = True
-        self._listener = keyboard.Listener(on_press=self._on_press)
-        self._listener.start()
+        try:
+            self._listener = keyboard.Listener(on_press=self._on_press)
+            self._listener.start()
+            self._is_running = True
+        except Exception:
+            self._listener = None
+            self._is_running = False
 
     def stop(self) -> None:
         self._is_running = False

@@ -58,7 +58,13 @@ def build_services():
 
 
 def main():
-    api, hotkey_service = build_services()
+    try:
+        api, hotkey_service = build_services()
+    except Exception as e:
+        print(f"ERROR: Failed to initialize services: {e}")
+        print("On Linux, make sure python3-xlib is installed:")
+        print("  Debian/Ubuntu: sudo apt install python3-xlib")
+        sys.exit(1)
 
     index_path = FRONTEND_DIR / "index.html"
     if not index_path.exists():
@@ -84,13 +90,10 @@ def main():
     except Exception as e:
         hotkey_service.shutdown()
         msg = str(e)
-        if "gtk" in msg.lower() or "gi" in msg.lower():
-            print("ERROR: GTK not found. On Linux, install one of the following:")
-            print("  Debian/Ubuntu: sudo apt install python3-gi gir1.2-webkit2-4.1")
-            print("  Or use Qt:   pip install PyQt6")
-        elif "qt" in msg.lower() and "cannot" in msg.lower():
-            print("ERROR: Qt not found. On Linux, install:")
-            print("  pip install PyQt6")
+        if "webview" in msg.lower() and ("backend" in msg.lower() or "no" in msg.lower()):
+            print("ERROR: No GUI backend available. pywebview needs GTK or Qt on Linux.")
+            print("  GTK: sudo apt install python3-gi gir1.2-webkit2-4.1")
+            print("  Qt:  pip install PyQt6")
         else:
             print(f"ERROR: {msg}")
         sys.exit(1)
