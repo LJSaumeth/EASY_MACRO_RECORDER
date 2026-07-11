@@ -19,7 +19,7 @@ A lightweight desktop macro recorder for single-player games. Automate repetitiv
 
 ## Quick Start
 
-### Run from source
+### Windows
 
 ```bash
 pip install -r macro_app/requirements.txt
@@ -27,7 +27,26 @@ cd macro_app
 python main.py
 ```
 
-### Build standalone executable
+### Linux
+
+Linux requires system packages for the GUI backend and input capture:
+
+```bash
+# GTK backend (Debian/Ubuntu)
+sudo apt install python3-gi gir1.2-webkit2-4.1 python3-xlib
+
+# Qt backend alternative (any distro with pip)
+pip install PyQt6 python3-xlib
+
+# Then install Python dependencies and run
+pip install -r macro_app/requirements.txt
+cd macro_app
+python main.py
+```
+
+> **Recording on Linux**: pynput needs `python3-xlib` for global keyboard hooks. Without it, macros will only record mouse events. Install it with your distro's package manager.
+
+### Build standalone executable (Windows)
 
 ```bash
 pip install -r macro_app/requirements.txt

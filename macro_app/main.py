@@ -67,19 +67,33 @@ def main():
             encoding="utf-8",
         )
 
-    window = webview.create_window(
-        title="Easy Macro Recorder",
-        url=str(index_path),
-        js_api=api,
-        width=800,
-        height=600,
-        min_size=(600, 400),
-    )
-
     try:
-        webview.start(debug=False)
-    finally:
+        window = webview.create_window(
+            title="Easy Macro Recorder",
+            url=str(index_path),
+            js_api=api,
+            width=800,
+            height=600,
+            min_size=(600, 400),
+        )
+
+        try:
+            webview.start(debug=False)
+        finally:
+            hotkey_service.shutdown()
+    except Exception as e:
         hotkey_service.shutdown()
+        msg = str(e)
+        if "gtk" in msg.lower() or "gi" in msg.lower():
+            print("ERROR: GTK not found. On Linux, install one of the following:")
+            print("  Debian/Ubuntu: sudo apt install python3-gi gir1.2-webkit2-4.1")
+            print("  Or use Qt:   pip install PyQt6")
+        elif "qt" in msg.lower() and "cannot" in msg.lower():
+            print("ERROR: Qt not found. On Linux, install:")
+            print("  pip install PyQt6")
+        else:
+            print(f"ERROR: {msg}")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
