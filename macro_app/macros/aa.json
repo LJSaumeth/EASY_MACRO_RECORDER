@@ -1,0 +1,4119 @@
+{
+  "name": "aa",
+  "events": [
+    {
+      "event_type": "mouse_move",
+      "timestamp": 585,
+      "button": null,
+      "key": null,
+      "x": 384,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 721,
+      "button": null,
+      "key": null,
+      "x": 385,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 737,
+      "button": null,
+      "key": null,
+      "x": 386,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 777,
+      "button": null,
+      "key": null,
+      "x": 386,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 793,
+      "button": null,
+      "key": null,
+      "x": 387,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 809,
+      "button": null,
+      "key": null,
+      "x": 388,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 833,
+      "button": null,
+      "key": null,
+      "x": 389,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 865,
+      "button": null,
+      "key": null,
+      "x": 390,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 881,
+      "button": null,
+      "key": null,
+      "x": 391,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 905,
+      "button": null,
+      "key": null,
+      "x": 391,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 969,
+      "button": null,
+      "key": null,
+      "x": 393,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 993,
+      "button": null,
+      "key": null,
+      "x": 394,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1001,
+      "button": null,
+      "key": null,
+      "x": 394,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1025,
+      "button": null,
+      "key": null,
+      "x": 395,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1033,
+      "button": null,
+      "key": null,
+      "x": 397,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1081,
+      "button": null,
+      "key": null,
+      "x": 397,
+      "y": 338
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1105,
+      "button": null,
+      "key": null,
+      "x": 399,
+      "y": 339
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1130,
+      "button": null,
+      "key": null,
+      "x": 400,
+      "y": 339
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1145,
+      "button": null,
+      "key": null,
+      "x": 401,
+      "y": 340
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1161,
+      "button": null,
+      "key": null,
+      "x": 402,
+      "y": 341
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1177,
+      "button": null,
+      "key": null,
+      "x": 404,
+      "y": 343
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1185,
+      "button": null,
+      "key": null,
+      "x": 405,
+      "y": 343
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1193,
+      "button": null,
+      "key": null,
+      "x": 406,
+      "y": 344
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1201,
+      "button": null,
+      "key": null,
+      "x": 407,
+      "y": 345
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1209,
+      "button": null,
+      "key": null,
+      "x": 408,
+      "y": 346
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1217,
+      "button": null,
+      "key": null,
+      "x": 410,
+      "y": 347
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1225,
+      "button": null,
+      "key": null,
+      "x": 412,
+      "y": 348
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1233,
+      "button": null,
+      "key": null,
+      "x": 414,
+      "y": 350
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1241,
+      "button": null,
+      "key": null,
+      "x": 416,
+      "y": 352
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1249,
+      "button": null,
+      "key": null,
+      "x": 420,
+      "y": 356
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1257,
+      "button": null,
+      "key": null,
+      "x": 425,
+      "y": 363
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1265,
+      "button": null,
+      "key": null,
+      "x": 434,
+      "y": 377
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1273,
+      "button": null,
+      "key": null,
+      "x": 441,
+      "y": 391
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1281,
+      "button": null,
+      "key": null,
+      "x": 456,
+      "y": 413
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1289,
+      "button": null,
+      "key": null,
+      "x": 467,
+      "y": 433
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1297,
+      "button": null,
+      "key": null,
+      "x": 479,
+      "y": 452
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1305,
+      "button": null,
+      "key": null,
+      "x": 489,
+      "y": 469
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1313,
+      "button": null,
+      "key": null,
+      "x": 504,
+      "y": 488
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1321,
+      "button": null,
+      "key": null,
+      "x": 511,
+      "y": 501
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1329,
+      "button": null,
+      "key": null,
+      "x": 521,
+      "y": 514
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1337,
+      "button": null,
+      "key": null,
+      "x": 531,
+      "y": 526
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1345,
+      "button": null,
+      "key": null,
+      "x": 542,
+      "y": 539
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1353,
+      "button": null,
+      "key": null,
+      "x": 553,
+      "y": 552
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1361,
+      "button": null,
+      "key": null,
+      "x": 564,
+      "y": 570
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1369,
+      "button": null,
+      "key": null,
+      "x": 584,
+      "y": 598
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1377,
+      "button": null,
+      "key": null,
+      "x": 610,
+      "y": 632
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1385,
+      "button": null,
+      "key": null,
+      "x": 635,
+      "y": 664
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1393,
+      "button": null,
+      "key": null,
+      "x": 666,
+      "y": 702
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1401,
+      "button": null,
+      "key": null,
+      "x": 701,
+      "y": 741
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1409,
+      "button": null,
+      "key": null,
+      "x": 730,
+      "y": 770
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1417,
+      "button": null,
+      "key": null,
+      "x": 768,
+      "y": 799
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1425,
+      "button": null,
+      "key": null,
+      "x": 780,
+      "y": 809
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1433,
+      "button": null,
+      "key": null,
+      "x": 781,
+      "y": 809
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1441,
+      "button": null,
+      "key": null,
+      "x": 792,
+      "y": 815
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1449,
+      "button": null,
+      "key": null,
+      "x": 802,
+      "y": 822
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1457,
+      "button": null,
+      "key": null,
+      "x": 812,
+      "y": 829
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1465,
+      "button": null,
+      "key": null,
+      "x": 822,
+      "y": 834
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1473,
+      "button": null,
+      "key": null,
+      "x": 831,
+      "y": 837
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1481,
+      "button": null,
+      "key": null,
+      "x": 837,
+      "y": 839
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1489,
+      "button": null,
+      "key": null,
+      "x": 842,
+      "y": 841
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1497,
+      "button": null,
+      "key": null,
+      "x": 846,
+      "y": 842
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1505,
+      "button": null,
+      "key": null,
+      "x": 849,
+      "y": 842
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1513,
+      "button": null,
+      "key": null,
+      "x": 851,
+      "y": 842
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1521,
+      "button": null,
+      "key": null,
+      "x": 854,
+      "y": 842
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1529,
+      "button": null,
+      "key": null,
+      "x": 858,
+      "y": 842
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1537,
+      "button": null,
+      "key": null,
+      "x": 863,
+      "y": 842
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1545,
+      "button": null,
+      "key": null,
+      "x": 865,
+      "y": 842
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1553,
+      "button": null,
+      "key": null,
+      "x": 867,
+      "y": 842
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1561,
+      "button": null,
+      "key": null,
+      "x": 869,
+      "y": 838
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1569,
+      "button": null,
+      "key": null,
+      "x": 869,
+      "y": 826
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1577,
+      "button": null,
+      "key": null,
+      "x": 869,
+      "y": 810
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1585,
+      "button": null,
+      "key": null,
+      "x": 867,
+      "y": 791
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1593,
+      "button": null,
+      "key": null,
+      "x": 862,
+      "y": 777
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1601,
+      "button": null,
+      "key": null,
+      "x": 862,
+      "y": 776
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1657,
+      "button": null,
+      "key": null,
+      "x": 856,
+      "y": 770
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1665,
+      "button": null,
+      "key": null,
+      "x": 847,
+      "y": 764
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1673,
+      "button": null,
+      "key": null,
+      "x": 842,
+      "y": 759
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1681,
+      "button": null,
+      "key": null,
+      "x": 841,
+      "y": 756
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1689,
+      "button": null,
+      "key": null,
+      "x": 841,
+      "y": 755
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1697,
+      "button": null,
+      "key": null,
+      "x": 841,
+      "y": 753
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1705,
+      "button": null,
+      "key": null,
+      "x": 841,
+      "y": 753
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1713,
+      "button": null,
+      "key": null,
+      "x": 841,
+      "y": 752
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1729,
+      "button": null,
+      "key": null,
+      "x": 841,
+      "y": 751
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1745,
+      "button": null,
+      "key": null,
+      "x": 842,
+      "y": 750
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1753,
+      "button": null,
+      "key": null,
+      "x": 843,
+      "y": 750
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1769,
+      "button": null,
+      "key": null,
+      "x": 846,
+      "y": 749
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1777,
+      "button": null,
+      "key": null,
+      "x": 850,
+      "y": 749
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1785,
+      "button": null,
+      "key": null,
+      "x": 857,
+      "y": 754
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1793,
+      "button": null,
+      "key": null,
+      "x": 868,
+      "y": 763
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1801,
+      "button": null,
+      "key": null,
+      "x": 892,
+      "y": 777
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1809,
+      "button": null,
+      "key": null,
+      "x": 918,
+      "y": 792
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1817,
+      "button": null,
+      "key": null,
+      "x": 957,
+      "y": 809
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1825,
+      "button": null,
+      "key": null,
+      "x": 1012,
+      "y": 831
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1833,
+      "button": null,
+      "key": null,
+      "x": 1071,
+      "y": 858
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1841,
+      "button": null,
+      "key": null,
+      "x": 1124,
+      "y": 882
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1849,
+      "button": null,
+      "key": null,
+      "x": 1179,
+      "y": 906
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1857,
+      "button": null,
+      "key": null,
+      "x": 1229,
+      "y": 934
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1865,
+      "button": null,
+      "key": null,
+      "x": 1267,
+      "y": 961
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1873,
+      "button": null,
+      "key": null,
+      "x": 1295,
+      "y": 981
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1881,
+      "button": null,
+      "key": null,
+      "x": 1320,
+      "y": 1002
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1889,
+      "button": null,
+      "key": null,
+      "x": 1339,
+      "y": 1021
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1897,
+      "button": null,
+      "key": null,
+      "x": 1347,
+      "y": 1032
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1905,
+      "button": null,
+      "key": null,
+      "x": 1351,
+      "y": 1038
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1913,
+      "button": null,
+      "key": null,
+      "x": 1353,
+      "y": 1043
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1921,
+      "button": null,
+      "key": null,
+      "x": 1353,
+      "y": 1045
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1937,
+      "button": null,
+      "key": null,
+      "x": 1353,
+      "y": 1047
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1945,
+      "button": null,
+      "key": null,
+      "x": 1352,
+      "y": 1048
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1953,
+      "button": null,
+      "key": null,
+      "x": 1350,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1961,
+      "button": null,
+      "key": null,
+      "x": 1349,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1969,
+      "button": null,
+      "key": null,
+      "x": 1348,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1977,
+      "button": null,
+      "key": null,
+      "x": 1347,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1985,
+      "button": null,
+      "key": null,
+      "x": 1347,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 1993,
+      "button": null,
+      "key": null,
+      "x": 1345,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2009,
+      "button": null,
+      "key": null,
+      "x": 1343,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2017,
+      "button": null,
+      "key": null,
+      "x": 1339,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2025,
+      "button": null,
+      "key": null,
+      "x": 1328,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2033,
+      "button": null,
+      "key": null,
+      "x": 1315,
+      "y": 1045
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2041,
+      "button": null,
+      "key": null,
+      "x": 1299,
+      "y": 1041
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2049,
+      "button": null,
+      "key": null,
+      "x": 1281,
+      "y": 1038
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2057,
+      "button": null,
+      "key": null,
+      "x": 1262,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2065,
+      "button": null,
+      "key": null,
+      "x": 1243,
+      "y": 1032
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2073,
+      "button": null,
+      "key": null,
+      "x": 1228,
+      "y": 1031
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2081,
+      "button": null,
+      "key": null,
+      "x": 1213,
+      "y": 1029
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2089,
+      "button": null,
+      "key": null,
+      "x": 1199,
+      "y": 1027
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2097,
+      "button": null,
+      "key": null,
+      "x": 1189,
+      "y": 1025
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2105,
+      "button": null,
+      "key": null,
+      "x": 1181,
+      "y": 1024
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2113,
+      "button": null,
+      "key": null,
+      "x": 1172,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2121,
+      "button": null,
+      "key": null,
+      "x": 1167,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2129,
+      "button": null,
+      "key": null,
+      "x": 1164,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2137,
+      "button": null,
+      "key": null,
+      "x": 1161,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2145,
+      "button": null,
+      "key": null,
+      "x": 1158,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2153,
+      "button": null,
+      "key": null,
+      "x": 1156,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2161,
+      "button": null,
+      "key": null,
+      "x": 1154,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2177,
+      "button": null,
+      "key": null,
+      "x": 1153,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2185,
+      "button": null,
+      "key": null,
+      "x": 1151,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2241,
+      "button": null,
+      "key": null,
+      "x": 1150,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 2249,
+      "button": null,
+      "key": null,
+      "x": 1149,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_click",
+      "timestamp": 3649,
+      "button": "left",
+      "key": null,
+      "x": 1149,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_click",
+      "timestamp": 3786,
+      "button": "left",
+      "key": null,
+      "x": 1149,
+      "y": 1023
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4001,
+      "button": null,
+      "key": null,
+      "x": 1147,
+      "y": 1024
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4009,
+      "button": null,
+      "key": null,
+      "x": 1144,
+      "y": 1025
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4017,
+      "button": null,
+      "key": null,
+      "x": 1140,
+      "y": 1025
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4025,
+      "button": null,
+      "key": null,
+      "x": 1135,
+      "y": 1026
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4034,
+      "button": null,
+      "key": null,
+      "x": 1126,
+      "y": 1028
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4041,
+      "button": null,
+      "key": null,
+      "x": 1116,
+      "y": 1030
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4049,
+      "button": null,
+      "key": null,
+      "x": 1111,
+      "y": 1030
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4057,
+      "button": null,
+      "key": null,
+      "x": 1104,
+      "y": 1031
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4065,
+      "button": null,
+      "key": null,
+      "x": 1100,
+      "y": 1031
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4073,
+      "button": null,
+      "key": null,
+      "x": 1096,
+      "y": 1032
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4081,
+      "button": null,
+      "key": null,
+      "x": 1095,
+      "y": 1032
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4089,
+      "button": null,
+      "key": null,
+      "x": 1092,
+      "y": 1032
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4097,
+      "button": null,
+      "key": null,
+      "x": 1090,
+      "y": 1033
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4105,
+      "button": null,
+      "key": null,
+      "x": 1090,
+      "y": 1033
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4113,
+      "button": null,
+      "key": null,
+      "x": 1088,
+      "y": 1033
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4121,
+      "button": null,
+      "key": null,
+      "x": 1085,
+      "y": 1033
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4129,
+      "button": null,
+      "key": null,
+      "x": 1083,
+      "y": 1035
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4137,
+      "button": null,
+      "key": null,
+      "x": 1081,
+      "y": 1036
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4145,
+      "button": null,
+      "key": null,
+      "x": 1079,
+      "y": 1036
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4153,
+      "button": null,
+      "key": null,
+      "x": 1079,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4161,
+      "button": null,
+      "key": null,
+      "x": 1078,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4169,
+      "button": null,
+      "key": null,
+      "x": 1077,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4177,
+      "button": null,
+      "key": null,
+      "x": 1076,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_click",
+      "timestamp": 4282,
+      "button": "left",
+      "key": null,
+      "x": 1076,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_click",
+      "timestamp": 4370,
+      "button": "left",
+      "key": null,
+      "x": 1076,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4929,
+      "button": null,
+      "key": null,
+      "x": 1075,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4937,
+      "button": null,
+      "key": null,
+      "x": 1073,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4945,
+      "button": null,
+      "key": null,
+      "x": 1072,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4953,
+      "button": null,
+      "key": null,
+      "x": 1071,
+      "y": 1037
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4961,
+      "button": null,
+      "key": null,
+      "x": 1069,
+      "y": 1036
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4969,
+      "button": null,
+      "key": null,
+      "x": 1069,
+      "y": 1035
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4977,
+      "button": null,
+      "key": null,
+      "x": 1068,
+      "y": 1035
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4985,
+      "button": null,
+      "key": null,
+      "x": 1067,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 4993,
+      "button": null,
+      "key": null,
+      "x": 1066,
+      "y": 1033
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5001,
+      "button": null,
+      "key": null,
+      "x": 1065,
+      "y": 1032
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5009,
+      "button": null,
+      "key": null,
+      "x": 1064,
+      "y": 1031
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5017,
+      "button": null,
+      "key": null,
+      "x": 1063,
+      "y": 1027
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5025,
+      "button": null,
+      "key": null,
+      "x": 1063,
+      "y": 1017
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5033,
+      "button": null,
+      "key": null,
+      "x": 1063,
+      "y": 1000
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5041,
+      "button": null,
+      "key": null,
+      "x": 1060,
+      "y": 974
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5049,
+      "button": null,
+      "key": null,
+      "x": 1050,
+      "y": 937
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5057,
+      "button": null,
+      "key": null,
+      "x": 1039,
+      "y": 893
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5065,
+      "button": null,
+      "key": null,
+      "x": 1025,
+      "y": 849
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5073,
+      "button": null,
+      "key": null,
+      "x": 1011,
+      "y": 811
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5081,
+      "button": null,
+      "key": null,
+      "x": 998,
+      "y": 773
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5089,
+      "button": null,
+      "key": null,
+      "x": 989,
+      "y": 730
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5097,
+      "button": null,
+      "key": null,
+      "x": 985,
+      "y": 684
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5105,
+      "button": null,
+      "key": null,
+      "x": 976,
+      "y": 641
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5113,
+      "button": null,
+      "key": null,
+      "x": 968,
+      "y": 601
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5121,
+      "button": null,
+      "key": null,
+      "x": 963,
+      "y": 575
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5129,
+      "button": null,
+      "key": null,
+      "x": 953,
+      "y": 547
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5137,
+      "button": null,
+      "key": null,
+      "x": 944,
+      "y": 528
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5145,
+      "button": null,
+      "key": null,
+      "x": 938,
+      "y": 513
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5153,
+      "button": null,
+      "key": null,
+      "x": 933,
+      "y": 502
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5161,
+      "button": null,
+      "key": null,
+      "x": 932,
+      "y": 492
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5169,
+      "button": null,
+      "key": null,
+      "x": 932,
+      "y": 485
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5177,
+      "button": null,
+      "key": null,
+      "x": 932,
+      "y": 473
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5185,
+      "button": null,
+      "key": null,
+      "x": 936,
+      "y": 463
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5193,
+      "button": null,
+      "key": null,
+      "x": 941,
+      "y": 451
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5201,
+      "button": null,
+      "key": null,
+      "x": 951,
+      "y": 438
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5209,
+      "button": null,
+      "key": null,
+      "x": 962,
+      "y": 427
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5217,
+      "button": null,
+      "key": null,
+      "x": 973,
+      "y": 416
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5225,
+      "button": null,
+      "key": null,
+      "x": 986,
+      "y": 408
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5233,
+      "button": null,
+      "key": null,
+      "x": 998,
+      "y": 399
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5241,
+      "button": null,
+      "key": null,
+      "x": 1007,
+      "y": 393
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5249,
+      "button": null,
+      "key": null,
+      "x": 1013,
+      "y": 388
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5257,
+      "button": null,
+      "key": null,
+      "x": 1022,
+      "y": 382
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5265,
+      "button": null,
+      "key": null,
+      "x": 1027,
+      "y": 376
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5273,
+      "button": null,
+      "key": null,
+      "x": 1035,
+      "y": 368
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5281,
+      "button": null,
+      "key": null,
+      "x": 1044,
+      "y": 358
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5289,
+      "button": null,
+      "key": null,
+      "x": 1051,
+      "y": 351
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5297,
+      "button": null,
+      "key": null,
+      "x": 1055,
+      "y": 345
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5305,
+      "button": null,
+      "key": null,
+      "x": 1062,
+      "y": 337
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5313,
+      "button": null,
+      "key": null,
+      "x": 1065,
+      "y": 331
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5321,
+      "button": null,
+      "key": null,
+      "x": 1069,
+      "y": 327
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5329,
+      "button": null,
+      "key": null,
+      "x": 1070,
+      "y": 318
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5337,
+      "button": null,
+      "key": null,
+      "x": 1072,
+      "y": 311
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5345,
+      "button": null,
+      "key": null,
+      "x": 1072,
+      "y": 304
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5353,
+      "button": null,
+      "key": null,
+      "x": 1072,
+      "y": 296
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5361,
+      "button": null,
+      "key": null,
+      "x": 1072,
+      "y": 289
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5369,
+      "button": null,
+      "key": null,
+      "x": 1072,
+      "y": 282
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5377,
+      "button": null,
+      "key": null,
+      "x": 1072,
+      "y": 274
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5385,
+      "button": null,
+      "key": null,
+      "x": 1072,
+      "y": 264
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5393,
+      "button": null,
+      "key": null,
+      "x": 1072,
+      "y": 252
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5401,
+      "button": null,
+      "key": null,
+      "x": 1075,
+      "y": 242
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5409,
+      "button": null,
+      "key": null,
+      "x": 1075,
+      "y": 229
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5417,
+      "button": null,
+      "key": null,
+      "x": 1079,
+      "y": 216
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5425,
+      "button": null,
+      "key": null,
+      "x": 1079,
+      "y": 205
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5433,
+      "button": null,
+      "key": null,
+      "x": 1079,
+      "y": 196
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5441,
+      "button": null,
+      "key": null,
+      "x": 1079,
+      "y": 188
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5449,
+      "button": null,
+      "key": null,
+      "x": 1079,
+      "y": 180
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5457,
+      "button": null,
+      "key": null,
+      "x": 1079,
+      "y": 176
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5465,
+      "button": null,
+      "key": null,
+      "x": 1078,
+      "y": 172
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5473,
+      "button": null,
+      "key": null,
+      "x": 1078,
+      "y": 169
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5481,
+      "button": null,
+      "key": null,
+      "x": 1077,
+      "y": 165
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5489,
+      "button": null,
+      "key": null,
+      "x": 1077,
+      "y": 160
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5497,
+      "button": null,
+      "key": null,
+      "x": 1077,
+      "y": 156
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5505,
+      "button": null,
+      "key": null,
+      "x": 1075,
+      "y": 155
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5513,
+      "button": null,
+      "key": null,
+      "x": 1075,
+      "y": 151
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5521,
+      "button": null,
+      "key": null,
+      "x": 1074,
+      "y": 147
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5529,
+      "button": null,
+      "key": null,
+      "x": 1074,
+      "y": 143
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5537,
+      "button": null,
+      "key": null,
+      "x": 1073,
+      "y": 141
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5545,
+      "button": null,
+      "key": null,
+      "x": 1070,
+      "y": 135
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5553,
+      "button": null,
+      "key": null,
+      "x": 1070,
+      "y": 134
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5561,
+      "button": null,
+      "key": null,
+      "x": 1070,
+      "y": 133
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5569,
+      "button": null,
+      "key": null,
+      "x": 1069,
+      "y": 132
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5881,
+      "button": null,
+      "key": null,
+      "x": 1069,
+      "y": 132
+    },
+    {
+      "event_type": "mouse_click",
+      "timestamp": 5954,
+      "button": "left",
+      "key": null,
+      "x": 1069,
+      "y": 132
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 5993,
+      "button": null,
+      "key": null,
+      "x": 1066,
+      "y": 128
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6009,
+      "button": null,
+      "key": null,
+      "x": 1064,
+      "y": 128
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6017,
+      "button": null,
+      "key": null,
+      "x": 1063,
+      "y": 127
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6025,
+      "button": null,
+      "key": null,
+      "x": 1060,
+      "y": 127
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6033,
+      "button": null,
+      "key": null,
+      "x": 1055,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6041,
+      "button": null,
+      "key": null,
+      "x": 1046,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6049,
+      "button": null,
+      "key": null,
+      "x": 1036,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6058,
+      "button": null,
+      "key": null,
+      "x": 1018,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6065,
+      "button": null,
+      "key": null,
+      "x": 998,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6073,
+      "button": null,
+      "key": null,
+      "x": 974,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6081,
+      "button": null,
+      "key": null,
+      "x": 956,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6089,
+      "button": null,
+      "key": null,
+      "x": 938,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6097,
+      "button": null,
+      "key": null,
+      "x": 923,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6105,
+      "button": null,
+      "key": null,
+      "x": 913,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6113,
+      "button": null,
+      "key": null,
+      "x": 904,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6121,
+      "button": null,
+      "key": null,
+      "x": 898,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6129,
+      "button": null,
+      "key": null,
+      "x": 889,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6137,
+      "button": null,
+      "key": null,
+      "x": 876,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6145,
+      "button": null,
+      "key": null,
+      "x": 864,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6153,
+      "button": null,
+      "key": null,
+      "x": 844,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6161,
+      "button": null,
+      "key": null,
+      "x": 813,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6169,
+      "button": null,
+      "key": null,
+      "x": 783,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6177,
+      "button": null,
+      "key": null,
+      "x": 755,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6185,
+      "button": null,
+      "key": null,
+      "x": 731,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6193,
+      "button": null,
+      "key": null,
+      "x": 707,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6201,
+      "button": null,
+      "key": null,
+      "x": 694,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6209,
+      "button": null,
+      "key": null,
+      "x": 681,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6217,
+      "button": null,
+      "key": null,
+      "x": 671,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6225,
+      "button": null,
+      "key": null,
+      "x": 664,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6233,
+      "button": null,
+      "key": null,
+      "x": 652,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6241,
+      "button": null,
+      "key": null,
+      "x": 639,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6250,
+      "button": null,
+      "key": null,
+      "x": 624,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6257,
+      "button": null,
+      "key": null,
+      "x": 604,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6265,
+      "button": null,
+      "key": null,
+      "x": 580,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6273,
+      "button": null,
+      "key": null,
+      "x": 562,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6281,
+      "button": null,
+      "key": null,
+      "x": 544,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6289,
+      "button": null,
+      "key": null,
+      "x": 529,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6297,
+      "button": null,
+      "key": null,
+      "x": 519,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6305,
+      "button": null,
+      "key": null,
+      "x": 512,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6313,
+      "button": null,
+      "key": null,
+      "x": 509,
+      "y": 126
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6361,
+      "button": null,
+      "key": null,
+      "x": 507,
+      "y": 127
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6425,
+      "button": null,
+      "key": null,
+      "x": 507,
+      "y": 128
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6441,
+      "button": null,
+      "key": null,
+      "x": 505,
+      "y": 128
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6449,
+      "button": null,
+      "key": null,
+      "x": 504,
+      "y": 128
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 6458,
+      "button": null,
+      "key": null,
+      "x": 504,
+      "y": 129
+    },
+    {
+      "event_type": "mouse_click",
+      "timestamp": 6497,
+      "button": "left",
+      "key": null,
+      "x": 504,
+      "y": 129
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 7046,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 7140,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 7865,
+      "button": null,
+      "key": "a",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 7950,
+      "button": null,
+      "key": "u",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 7983,
+      "button": null,
+      "key": "a",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8034,
+      "button": null,
+      "key": "u",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8067,
+      "button": null,
+      "key": "s",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8139,
+      "button": null,
+      "key": "h",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8168,
+      "button": null,
+      "key": "s",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8230,
+      "button": null,
+      "key": "h",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8251,
+      "button": null,
+      "key": "d",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8262,
+      "button": null,
+      "key": "i",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8334,
+      "button": null,
+      "key": "s",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8349,
+      "button": null,
+      "key": "a",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8354,
+      "button": null,
+      "key": "i",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8362,
+      "button": null,
+      "key": "h",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8396,
+      "button": null,
+      "key": "d",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8400,
+      "button": null,
+      "key": "a",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8406,
+      "button": null,
+      "key": "h",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8422,
+      "button": null,
+      "key": "i",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8501,
+      "button": null,
+      "key": "s",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8508,
+      "button": null,
+      "key": "i",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8517,
+      "button": null,
+      "key": "n",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8533,
+      "button": null,
+      "key": "f",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8565,
+      "button": null,
+      "key": "i",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8570,
+      "button": null,
+      "key": "n",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8651,
+      "button": null,
+      "key": "i",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8671,
+      "button": null,
+      "key": "d",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8674,
+      "button": null,
+      "key": "f",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8704,
+      "button": null,
+      "key": "i",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8770,
+      "button": null,
+      "key": "f",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8778,
+      "button": null,
+      "key": "d",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8796,
+      "button": null,
+      "key": "i",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8854,
+      "button": null,
+      "key": "i",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8879,
+      "button": null,
+      "key": "s",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 8882,
+      "button": null,
+      "key": "d",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8933,
+      "button": null,
+      "key": "f",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8954,
+      "button": null,
+      "key": "i",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 8994,
+      "button": null,
+      "key": "d",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 9015,
+      "button": null,
+      "key": "s",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 9985,
+      "button": null,
+      "key": "shift",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 10197,
+      "button": null,
+      "key": "up",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 10347,
+      "button": null,
+      "key": "up",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 10762,
+      "button": null,
+      "key": "shift",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 10871,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11396,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11430,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11463,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11497,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11531,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11566,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11600,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11633,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11668,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11700,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11734,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11768,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11801,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11837,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11870,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11904,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11937,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 11971,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 12005,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 12038,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 12072,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 12109,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 12148,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 12174,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_press",
+      "timestamp": 12221,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "key_release",
+      "timestamp": 12222,
+      "button": null,
+      "key": "backspace",
+      "x": null,
+      "y": null
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12530,
+      "button": null,
+      "key": null,
+      "x": 504,
+      "y": 129
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12538,
+      "button": null,
+      "key": null,
+      "x": 529,
+      "y": 149
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12546,
+      "button": null,
+      "key": null,
+      "x": 561,
+      "y": 182
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12554,
+      "button": null,
+      "key": null,
+      "x": 590,
+      "y": 207
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12562,
+      "button": null,
+      "key": null,
+      "x": 617,
+      "y": 224
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12570,
+      "button": null,
+      "key": null,
+      "x": 637,
+      "y": 236
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12578,
+      "button": null,
+      "key": null,
+      "x": 661,
+      "y": 252
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12586,
+      "button": null,
+      "key": null,
+      "x": 688,
+      "y": 270
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12594,
+      "button": null,
+      "key": null,
+      "x": 704,
+      "y": 286
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12602,
+      "button": null,
+      "key": null,
+      "x": 721,
+      "y": 296
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12610,
+      "button": null,
+      "key": null,
+      "x": 733,
+      "y": 303
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12618,
+      "button": null,
+      "key": null,
+      "x": 739,
+      "y": 307
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12626,
+      "button": null,
+      "key": null,
+      "x": 740,
+      "y": 307
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12706,
+      "button": null,
+      "key": null,
+      "x": 740,
+      "y": 307
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12714,
+      "button": null,
+      "key": null,
+      "x": 745,
+      "y": 308
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12722,
+      "button": null,
+      "key": null,
+      "x": 760,
+      "y": 312
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12730,
+      "button": null,
+      "key": null,
+      "x": 783,
+      "y": 313
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12738,
+      "button": null,
+      "key": null,
+      "x": 820,
+      "y": 321
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12746,
+      "button": null,
+      "key": null,
+      "x": 872,
+      "y": 328
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12754,
+      "button": null,
+      "key": null,
+      "x": 926,
+      "y": 340
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12762,
+      "button": null,
+      "key": null,
+      "x": 994,
+      "y": 363
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12834,
+      "button": null,
+      "key": null,
+      "x": 1062,
+      "y": 383
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12835,
+      "button": null,
+      "key": null,
+      "x": 1530,
+      "y": 619
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12842,
+      "button": null,
+      "key": null,
+      "x": 1539,
+      "y": 627
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12850,
+      "button": null,
+      "key": null,
+      "x": 1547,
+      "y": 635
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12858,
+      "button": null,
+      "key": null,
+      "x": 1551,
+      "y": 642
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12866,
+      "button": null,
+      "key": null,
+      "x": 1552,
+      "y": 651
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12874,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 663
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12882,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 676
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12890,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 691
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12898,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 709
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12906,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 724
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12914,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 741
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12922,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 756
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12930,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 771
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12938,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 779
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12946,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 789
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12954,
+      "button": null,
+      "key": null,
+      "x": 1553,
+      "y": 796
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12962,
+      "button": null,
+      "key": null,
+      "x": 1552,
+      "y": 803
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12970,
+      "button": null,
+      "key": null,
+      "x": 1552,
+      "y": 808
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12978,
+      "button": null,
+      "key": null,
+      "x": 1552,
+      "y": 815
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12986,
+      "button": null,
+      "key": null,
+      "x": 1552,
+      "y": 823
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 12994,
+      "button": null,
+      "key": null,
+      "x": 1552,
+      "y": 832
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13002,
+      "button": null,
+      "key": null,
+      "x": 1552,
+      "y": 839
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13010,
+      "button": null,
+      "key": null,
+      "x": 1557,
+      "y": 846
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13018,
+      "button": null,
+      "key": null,
+      "x": 1558,
+      "y": 852
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13026,
+      "button": null,
+      "key": null,
+      "x": 1559,
+      "y": 859
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13034,
+      "button": null,
+      "key": null,
+      "x": 1559,
+      "y": 861
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13042,
+      "button": null,
+      "key": null,
+      "x": 1559,
+      "y": 864
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13050,
+      "button": null,
+      "key": null,
+      "x": 1559,
+      "y": 865
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13058,
+      "button": null,
+      "key": null,
+      "x": 1559,
+      "y": 866
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13066,
+      "button": null,
+      "key": null,
+      "x": 1558,
+      "y": 869
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13074,
+      "button": null,
+      "key": null,
+      "x": 1551,
+      "y": 876
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13082,
+      "button": null,
+      "key": null,
+      "x": 1541,
+      "y": 892
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13090,
+      "button": null,
+      "key": null,
+      "x": 1522,
+      "y": 917
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13098,
+      "button": null,
+      "key": null,
+      "x": 1494,
+      "y": 949
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13106,
+      "button": null,
+      "key": null,
+      "x": 1465,
+      "y": 976
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13114,
+      "button": null,
+      "key": null,
+      "x": 1428,
+      "y": 1002
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13122,
+      "button": null,
+      "key": null,
+      "x": 1392,
+      "y": 1019
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13130,
+      "button": null,
+      "key": null,
+      "x": 1361,
+      "y": 1029
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13138,
+      "button": null,
+      "key": null,
+      "x": 1335,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13146,
+      "button": null,
+      "key": null,
+      "x": 1321,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13154,
+      "button": null,
+      "key": null,
+      "x": 1311,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13162,
+      "button": null,
+      "key": null,
+      "x": 1303,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13170,
+      "button": null,
+      "key": null,
+      "x": 1299,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13178,
+      "button": null,
+      "key": null,
+      "x": 1298,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13186,
+      "button": null,
+      "key": null,
+      "x": 1295,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13194,
+      "button": null,
+      "key": null,
+      "x": 1292,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13202,
+      "button": null,
+      "key": null,
+      "x": 1286,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13210,
+      "button": null,
+      "key": null,
+      "x": 1278,
+      "y": 1034
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13218,
+      "button": null,
+      "key": null,
+      "x": 1264,
+      "y": 1039
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13226,
+      "button": null,
+      "key": null,
+      "x": 1257,
+      "y": 1041
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13234,
+      "button": null,
+      "key": null,
+      "x": 1249,
+      "y": 1044
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13242,
+      "button": null,
+      "key": null,
+      "x": 1247,
+      "y": 1044
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13282,
+      "button": null,
+      "key": null,
+      "x": 1246,
+      "y": 1044
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13298,
+      "button": null,
+      "key": null,
+      "x": 1245,
+      "y": 1045
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13306,
+      "button": null,
+      "key": null,
+      "x": 1243,
+      "y": 1045
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13314,
+      "button": null,
+      "key": null,
+      "x": 1239,
+      "y": 1046
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13322,
+      "button": null,
+      "key": null,
+      "x": 1236,
+      "y": 1048
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13330,
+      "button": null,
+      "key": null,
+      "x": 1236,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 13362,
+      "button": null,
+      "key": null,
+      "x": 1235,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_click",
+      "timestamp": 13538,
+      "button": "left",
+      "key": null,
+      "x": 1235,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_click",
+      "timestamp": 13618,
+      "button": "left",
+      "key": null,
+      "x": 1235,
+      "y": 1049
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14114,
+      "button": null,
+      "key": null,
+      "x": 1228,
+      "y": 1046
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14122,
+      "button": null,
+      "key": null,
+      "x": 1199,
+      "y": 1026
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14131,
+      "button": null,
+      "key": null,
+      "x": 1151,
+      "y": 992
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14138,
+      "button": null,
+      "key": null,
+      "x": 1087,
+      "y": 946
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14146,
+      "button": null,
+      "key": null,
+      "x": 1022,
+      "y": 897
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14154,
+      "button": null,
+      "key": null,
+      "x": 948,
+      "y": 852
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14162,
+      "button": null,
+      "key": null,
+      "x": 878,
+      "y": 810
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14170,
+      "button": null,
+      "key": null,
+      "x": 820,
+      "y": 773
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14178,
+      "button": null,
+      "key": null,
+      "x": 766,
+      "y": 736
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14186,
+      "button": null,
+      "key": null,
+      "x": 708,
+      "y": 693
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14194,
+      "button": null,
+      "key": null,
+      "x": 654,
+      "y": 656
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14202,
+      "button": null,
+      "key": null,
+      "x": 603,
+      "y": 619
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14210,
+      "button": null,
+      "key": null,
+      "x": 559,
+      "y": 589
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14218,
+      "button": null,
+      "key": null,
+      "x": 511,
+      "y": 553
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14226,
+      "button": null,
+      "key": null,
+      "x": 480,
+      "y": 533
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14234,
+      "button": null,
+      "key": null,
+      "x": 456,
+      "y": 514
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14242,
+      "button": null,
+      "key": null,
+      "x": 438,
+      "y": 501
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14250,
+      "button": null,
+      "key": null,
+      "x": 427,
+      "y": 494
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14258,
+      "button": null,
+      "key": null,
+      "x": 421,
+      "y": 490
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14266,
+      "button": null,
+      "key": null,
+      "x": 421,
+      "y": 489
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14274,
+      "button": null,
+      "key": null,
+      "x": 420,
+      "y": 489
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14338,
+      "button": null,
+      "key": null,
+      "x": 419,
+      "y": 488
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14354,
+      "button": null,
+      "key": null,
+      "x": 418,
+      "y": 487
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14362,
+      "button": null,
+      "key": null,
+      "x": 417,
+      "y": 483
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14370,
+      "button": null,
+      "key": null,
+      "x": 416,
+      "y": 480
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14378,
+      "button": null,
+      "key": null,
+      "x": 415,
+      "y": 477
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14386,
+      "button": null,
+      "key": null,
+      "x": 412,
+      "y": 474
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14394,
+      "button": null,
+      "key": null,
+      "x": 412,
+      "y": 473
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14402,
+      "button": null,
+      "key": null,
+      "x": 411,
+      "y": 468
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14410,
+      "button": null,
+      "key": null,
+      "x": 411,
+      "y": 463
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14418,
+      "button": null,
+      "key": null,
+      "x": 411,
+      "y": 453
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14426,
+      "button": null,
+      "key": null,
+      "x": 411,
+      "y": 438
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14434,
+      "button": null,
+      "key": null,
+      "x": 411,
+      "y": 417
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14442,
+      "button": null,
+      "key": null,
+      "x": 420,
+      "y": 395
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14450,
+      "button": null,
+      "key": null,
+      "x": 421,
+      "y": 377
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14458,
+      "button": null,
+      "key": null,
+      "x": 422,
+      "y": 360
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14466,
+      "button": null,
+      "key": null,
+      "x": 422,
+      "y": 350
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14474,
+      "button": null,
+      "key": null,
+      "x": 422,
+      "y": 342
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14482,
+      "button": null,
+      "key": null,
+      "x": 422,
+      "y": 337
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14490,
+      "button": null,
+      "key": null,
+      "x": 422,
+      "y": 336
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14498,
+      "button": null,
+      "key": null,
+      "x": 423,
+      "y": 334
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14506,
+      "button": null,
+      "key": null,
+      "x": 423,
+      "y": 332
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14514,
+      "button": null,
+      "key": null,
+      "x": 425,
+      "y": 327
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14522,
+      "button": null,
+      "key": null,
+      "x": 426,
+      "y": 324
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14530,
+      "button": null,
+      "key": null,
+      "x": 428,
+      "y": 320
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14538,
+      "button": null,
+      "key": null,
+      "x": 428,
+      "y": 317
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14546,
+      "button": null,
+      "key": null,
+      "x": 429,
+      "y": 317
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14554,
+      "button": null,
+      "key": null,
+      "x": 430,
+      "y": 316
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14682,
+      "button": null,
+      "key": null,
+      "x": 430,
+      "y": 317
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14690,
+      "button": null,
+      "key": null,
+      "x": 430,
+      "y": 318
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14698,
+      "button": null,
+      "key": null,
+      "x": 430,
+      "y": 321
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14706,
+      "button": null,
+      "key": null,
+      "x": 430,
+      "y": 322
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14714,
+      "button": null,
+      "key": null,
+      "x": 430,
+      "y": 326
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14722,
+      "button": null,
+      "key": null,
+      "x": 430,
+      "y": 327
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14730,
+      "button": null,
+      "key": null,
+      "x": 431,
+      "y": 330
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14738,
+      "button": null,
+      "key": null,
+      "x": 431,
+      "y": 332
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14746,
+      "button": null,
+      "key": null,
+      "x": 431,
+      "y": 335
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14754,
+      "button": null,
+      "key": null,
+      "x": 431,
+      "y": 336
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14762,
+      "button": null,
+      "key": null,
+      "x": 431,
+      "y": 339
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14770,
+      "button": null,
+      "key": null,
+      "x": 431,
+      "y": 343
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14778,
+      "button": null,
+      "key": null,
+      "x": 431,
+      "y": 343
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14786,
+      "button": null,
+      "key": null,
+      "x": 432,
+      "y": 346
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14794,
+      "button": null,
+      "key": null,
+      "x": 432,
+      "y": 348
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14802,
+      "button": null,
+      "key": null,
+      "x": 432,
+      "y": 351
+    },
+    {
+      "event_type": "mouse_move",
+      "timestamp": 14810,
+      "button": null,
+      "key": null,
+      "x": 433,
+      "y": 353
+    },
+    {
+      "event_type": "mouse_click",
+      "timestamp": 14994,
+      "button": "left",
+      "key": null,
+      "x": 433,
+      "y": 353
+    },
+    {
+      "event_type": "mouse_click",
+      "timestamp": 15066,
+      "button": "left",
+      "key": null,
+      "x": 433,
+      "y": 353
+    }
+  ],
+  "created_at": "2026-07-11T13:25:28.483249+00:00",
+  "updated_at": "2026-07-11T13:25:28.483249+00:00"
+}
