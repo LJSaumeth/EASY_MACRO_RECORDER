@@ -17,15 +17,22 @@ A lightweight desktop macro recorder for single-player games. Automate repetitiv
 
 ## Quick Start
 
-### Option 1: Download pre-built binary (Linux)
+### Option 1: Download pre-built binary
 
-1. Download [`EasyMacroRecorder-linux-x64.tar.gz`](https://github.com/LJSaumeth/EASY_MACRO_RECORDER/releases/latest) from [Releases](https://github.com/LJSaumeth/EASY_MACRO_RECORDER/releases)
-2. Extract and run:
+Download the latest release for your platform from [Releases](https://github.com/LJSaumeth/EASY_MACRO_RECORDER/releases):
 
+**Linux (x64):**
 ```bash
 tar xzf EasyMacroRecorder-linux-x64.tar.gz
 cd EasyMacroRecorder
 ./EasyMacroRecorder
+```
+
+**Windows (x64):**
+```
+1. Download EasyMacroRecorder-windows-x64.zip
+2. Extract the .zip
+3. Double-click EasyMacroRecorder.exe
 ```
 
 ### Option 2: Install from source
@@ -45,42 +52,46 @@ Supported distros: **Ubuntu**, **Debian**, **Fedora**, **Arch**, **Zorin OS**, a
 <summary>Manual installation (Linux)</summary>
 
 ```bash
-# Install system dependencies (Debian/Ubuntu)
+# Install system dependencies
+# Debian/Ubuntu:
 sudo apt install python3-gi gir1.2-webkit2-4.1 python3-xlib
-
-# Fedora
+# Fedora:
 sudo dnf install python3-gobject webkit2gtk4.1 python3-xlib
-
-# Arch
+# Arch:
 sudo pacman -S python-gobject webkit2gtk-4.1 python-xlib
 
-# Install Python dependencies
+# Install Python dependencies and run
 pip install -r macro_app/requirements.txt
 cd macro_app
 python main.py
 ```
 </details>
 
-#### Windows
+#### Windows (manual)
+
+Requires Python 3.10+ and pip:
 
 ```bash
+git clone https://github.com/LJSaumeth/EASY_MACRO_RECORDER.git
+cd EASY_MACRO_RECORDER
 pip install -r macro_app/requirements.txt
 cd macro_app
 python main.py
 ```
 
+No additional system packages needed — pynput and pywebview work out of the box on Windows.
+
 ### Build standalone executable
 
 ```bash
 cd macro_app
-pyinstaller EasyMacroRecorder.spec           # Windows
-pyinstaller EasyMacroRecorder-linux.spec     # Linux
-# Output: dist/EasyMacroRecorder/
+pyinstaller EasyMacroRecorder.spec           # Windows → dist/EasyMacroRecorder/EasyMacroRecorder.exe
+pyinstaller EasyMacroRecorder-linux.spec     # Linux → dist/EasyMacroRecorder/EasyMacroRecorder
 ```
 
 ## Usage
 
-1. Launch the app (run as administrator/root for full game compatibility)
+1. Launch the app (run as **administrator** on Windows / **root** on Linux for full game compatibility)
 2. Press **F6** to start recording, perform your game actions
 3. Press **F6** again to stop recording
 4. Press **F7** to play back the macro
@@ -89,7 +100,7 @@ pyinstaller EasyMacroRecorder-linux.spec     # Linux
 
 Configure loop count and delay in the Playback panel. Edit events in the Event Editor panel.
 
-> **Wayland users**: Global hotkeys work through XWayland. For gaming, consider running games in X11 mode or use [gamescope](https://github.com/ValveSoftware/gamescope).
+> **Linux / Wayland**: Global hotkeys work through XWayland. For gaming, consider running games in X11 mode or use [gamescope](https://github.com/ValveSoftware/gamescope).
 
 ## Tech Stack
 
