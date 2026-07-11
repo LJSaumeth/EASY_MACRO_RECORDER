@@ -32,6 +32,7 @@ class MacroEditor:
         if index < 0 or index >= len(events):
             raise IndexError(f"Event index {index} out of range (0-{len(events) - 1})")
         del events[index]
+        self._playback.set_macro_events(events)
         return events
 
     def adjust_timestamp(self, index: int, delta_ms: int) -> List[MacroEvent]:
@@ -45,6 +46,7 @@ class MacroEditor:
         events[index].timestamp += effective_delta
         for i in range(index + 1, len(events)):
             events[i].timestamp += effective_delta
+        self._playback.set_macro_events(events)
         return events
 
     def insert_event(self, index: int, event: MacroEvent) -> List[MacroEvent]:
@@ -60,13 +62,13 @@ class MacroEditor:
             base_timestamp = events[index].timestamp
             event.timestamp = base_timestamp
             events.insert(index, event)
+        self._playback.set_macro_events(events)
         return events
 
     def insert_delay(self, index: int, duration_ms: int) -> List[MacroEvent]:
         self._guard()
         if duration_ms <= 0:
             raise ValueError("Delay duration must be positive")
-        self._guard()
         events = self._playback.get_current_macro()
         if index < 0 or index > len(events):
             raise IndexError(f"Event index {index} out of range (0-{len(events)})")
@@ -74,10 +76,12 @@ class MacroEditor:
             return events
         for i in range(index, len(events)):
             events[i].timestamp += duration_ms
+        self._playback.set_macro_events(events)
         return events
 
     def clear_all_events(self) -> List[MacroEvent]:
         self._guard()
         events = self._playback.get_current_macro()
         events.clear()
+        self._playback.set_macro_events(events)
         return events

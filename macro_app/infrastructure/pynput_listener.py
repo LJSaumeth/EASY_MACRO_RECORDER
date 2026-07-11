@@ -7,12 +7,18 @@ from domain.models import MacroEvent, HotkeyBinding
 
 
 class PynputListener:
+    # Throttle mouse_move events to avoid flooding
+    _MOVE_THROTTLE_MS = 16   # ~60 events/sec max
+    _MOVE_THRESHOLD_PX = 5   # Minimum pixel movement to register
+
     def __init__(self):
         self._mouse_listener: Optional[mouse.Listener] = None
         self._keyboard_listener: Optional[keyboard.Listener] = None
         self._event_callback: Optional[Callable[[MacroEvent], None]] = None
         self._start_time: Optional[float] = None
         self._is_listening: bool = False
+        self._last_move_time: Optional[float] = None
+        self._last_move_pos: Optional[tuple] = None
 
     def start_listening(self, callback: Callable[[MacroEvent], None]) -> None:
         if self._is_listening:
@@ -73,6 +79,25 @@ class PynputListener:
     def _on_mouse_move(self, x: int, y: int) -> bool:
         if not self._is_listening:
             return True
+
+        now = time.time()
+
+        # Throttle: skip if too soon since last recorded move
+        if self._last_move_time is not None:
+            elapsed_ms = (now - self._last_move_time) * 1000
+            if elapsed_ms < self._MOVE_THROTTLE_MS:
+                return True
+
+        # Threshold: skip if movement is too small
+        if self._last_move_pos is not None:
+            dx = abs(x - self._last_move_pos[0])
+            dy = abs(y - self._last_move_pos[1])
+            if dx < self._MOVE_THRESHOLD_PX and dy < self._MOVE_THRESHOLD_PX:
+                return True
+
+        self._last_move_time = now
+        self._last_move_pos = (x, y)
+
         event = MacroEvent(
             event_type="mouse_move",
             timestamp=self._relative_timestamp(),

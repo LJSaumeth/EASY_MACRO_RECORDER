@@ -1,3 +1,4 @@
+import threading
 from typing import Dict, List
 
 from application.recording_service import RecordingService
@@ -11,6 +12,7 @@ from domain.exceptions import (
     InvalidMacroNameError,
     MacroNotFoundError,
 )
+from domain.models import Macro
 
 
 MAX_LOOP_COUNT = 999
@@ -31,20 +33,23 @@ class MacroApi:
         self._hotkey = hotkey_service
         self._editor = macro_editor
         self._pending_events: List[Dict] = []
+        self._events_lock = threading.Lock()
 
         self._recording.set_state_callback(self._on_state_event)
         self._playback.set_state_callback(self._on_state_event)
 
     def _on_state_event(self, event_type: str, data: dict) -> None:
-        self._pending_events.append({"type": event_type, "data": data})
+        with self._events_lock:
+            self._pending_events.append({"type": event_type, "data": data})
 
     def get_app_state(self) -> dict:
         is_recording = self._recording.is_recording()
         is_playing = self._playback.is_playing()
         playback_state = self._playback.get_state()
         can_edit = self._editor.can_edit()
-        events = self._pending_events.copy()
-        self._pending_events.clear()
+        with self._events_lock:
+            events = list(self._pending_events)
+            self._pending_events.clear()
         return {
             "is_recording": is_recording,
             "is_playing": is_playing,
@@ -79,8 +84,8 @@ class MacroApi:
         return {"success": True, "events": serialized}
 
     def play_macro(self, loop_count: int = 1, delay_between_loops: int = 0) -> dict:
-        if loop_count == -1:
-            loop_count = -1
+        if loop_count == Macro.INFINITE_LOOP:
+            loop_count = Macro.INFINITE_LOOP
         elif loop_count < 1:
             loop_count = 1
         elif loop_count > MAX_LOOP_COUNT:

@@ -40,7 +40,8 @@ class Macro:
     created_at: str = ""
     updated_at: str = ""
 
-    INFINITE_LOOP = -1
+    # Sentinel value for infinite loop count
+    INFINITE_LOOP: int = -1
 
     def to_dict(self) -> dict:
         return {

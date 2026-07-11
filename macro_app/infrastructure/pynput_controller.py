@@ -33,10 +33,16 @@ class PynputController:
         if event.key is None:
             return
         resolved_key = self._resolve_key(event.key)
-        if is_press:
-            self._keyboard.press(resolved_key)
-        else:
-            self._keyboard.release(resolved_key)
+        # Skip unsupported keys (e.g. multimedia) instead of crashing
+        if isinstance(resolved_key, str):
+            return
+        try:
+            if is_press:
+                self._keyboard.press(resolved_key)
+            else:
+                self._keyboard.release(resolved_key)
+        except Exception:
+            pass  # Key not supported by current platform, skip silently
 
     @staticmethod
     def _resolve_button(button_name: str) -> ms.Button:

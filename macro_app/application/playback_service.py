@@ -1,8 +1,7 @@
 import threading
-import time
 from typing import Callable, List, Optional
 
-from domain.models import MacroEvent, PlaybackSession
+from domain.models import Macro, MacroEvent, PlaybackSession
 from infrastructure.pynput_controller import PynputController
 
 
@@ -65,9 +64,15 @@ class PlaybackService:
     def get_current_macro(self) -> List[MacroEvent]:
         return list(self._session.macro_events)
 
+    def set_macro_events(self, events: List[MacroEvent]) -> None:
+        """Replace the loaded macro events. Cannot be called during playback."""
+        if self._session.is_playing:
+            raise RuntimeError("Cannot modify macro during playback")
+        self._session.macro_events = list(events)
+
     def _run_playback(self) -> None:
         max_loops = self._session.loop_count
-        is_infinite = max_loops == -1
+        is_infinite = max_loops == Macro.INFINITE_LOOP
         while self._session.is_playing and not self._stop_event.is_set():
             if not is_infinite and self._session.current_loop >= max_loops:
                 break
@@ -96,13 +101,8 @@ class PlaybackService:
     def _wait_for_delay(self, delay_ms: int) -> None:
         if delay_ms <= 0:
             return
-        step = 0.05
-        elapsed = 0.0
-        while elapsed < delay_ms / 1000.0:
-            if self._stop_event.is_set():
-                return
-            time.sleep(step)
-            elapsed += step
+        # Use Event.wait() for interruptible, precise delay
+        self._stop_event.wait(timeout=delay_ms / 1000.0)
 
     def _notify(self, event_type: str, data: dict) -> None:
         if self._on_state_changed:
