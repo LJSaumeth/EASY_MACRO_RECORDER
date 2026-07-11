@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easy Macro Recorder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Easy Macro Recorder</h1>
+    </header>
+
+    <main>
+        <div class="panels-grid">
+            <section id="recording-panel" class="panel">
+                <h2>Recording</h2>
+                <button id="rec-toggle-btn" class="rec-btn">Start Recording</button>
+                <span id="rec-event-count" class="rec-count hidden">0 events captured</span>
+            </section>
+
+            <section id="playback-panel" class="panel">
+                <h2>Playback</h2>
+                <button id="play-toggle-btn" class="play-btn" disabled>Play</button>
+                <div class="playback-config">
+                    <label>
+                        Loops:
+                        <input type="number" id="loop-count" value="1" min="1" max="999">
+                    </label>
+                    <label class="infinite-label">
+                        <input type="checkbox" id="loop-infinite">
+                        Infinite
+                    </label>
+                    <label>
+                        Delay (ms):
+                        <input type="number" id="loop-delay" value="0" min="0">
+                    </label>
+                </div>
+                <span id="play-progress" class="play-progress hidden"></span>
+            </section>
+
+            <section id="file-panel" class="panel">
+                <h2>Files</h2>
+                <div class="file-save-row">
+                    <input type="text" id="macro-name" placeholder="Macro name">
+                    <button id="save-btn">Save</button>
+                </div>
+                <div class="file-list-row">
+                    <select id="macro-list" size="5">
+                        <option disabled selected>No macros saved yet</option>
+                    </select>
+                    <div class="file-actions">
+                        <button id="load-btn">Load</button>
+                        <button id="delete-btn" class="btn-danger">Delete</button>
+                    </div>
+                </div>
+                <span id="file-info" class="file-info hidden"></span>
+            </section>
+
+            <section id="hotkey-panel" class="panel">
+                <h2>Hotkeys</h2>
+                <table id="hotkey-table">
+                    <thead>
+                        <tr><th>Action</th><th>Key</th><th></th></tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <span id="hotkey-error" class="hotkey-error hidden"></span>
+                <button id="reset-hotkeys-btn" class="btn-danger">Reset to Defaults</button>
+            </section>
+        </div>
+
+        <section id="editor-panel" class="panel">
+            <h2>Event Editor</h2>
+            <div id="editor-table-wrapper">
+                <table id="event-table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Type</th>
+                            <th>Time (ms)</th>
+                            <th>Details</th>
+                            <th></th>
+                            <th>Adjust (±ms)</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+                <p id="editor-empty-msg">No events to display</p>
+            </div>
+
+            <div class="editor-forms">
+                <div class="editor-form-row">
+                    <h3>Insert Event</h3>
+                    <select id="insert-event-type">
+                        <option value="mouse_click">Mouse Click</option>
+                        <option value="mouse_move">Mouse Move</option>
+                        <option value="key_press">Key Press</option>
+                        <option value="key_release">Key Release</option>
+                    </select>
+                    <label>Position: <input type="number" id="insert-pos" value="0" min="0"></label>
+                    <span id="insert-mouse-fields">
+                        <label>X: <input type="number" id="insert-x" value="0"></label>
+                        <label>Y: <input type="number" id="insert-y" value="0"></label>
+                        <label>Button:
+                            <select id="insert-button">
+                                <option value="left">Left</option>
+                                <option value="right">Right</option>
+                                <option value="middle">Middle</option>
+                            </select>
+                        </label>
+                    </span>
+                    <span id="insert-key-field" class="hidden">
+                        <label>Key: <input type="text" id="insert-key" placeholder="e.g. a, enter"></label>
+                    </span>
+                    <button id="insert-event-btn">Add Event</button>
+                </div>
+
+                <div class="editor-form-row">
+                    <h3>Insert Delay</h3>
+                    <label>Position: <input type="number" id="delay-pos" value="0" min="0"></label>
+                    <label>Duration (ms): <input type="number" id="delay-duration" value="1000" min="1"></label>
+                    <button id="insert-delay-btn">Add Delay</button>
+                </div>
+
+                <button id="clear-events-btn" class="btn-danger">Clear All Events</button>
+            </div>
+        </section>
+    </main>
+
+    <footer id="status-bar">
+        <span id="status-indicator" class="status-dot idle"></span>
+        <span id="status-text">Ready</span>
+        <span id="status-temp" class="hidden"></span>
+    </footer>
+
+    <div id="key-capture-overlay" class="hidden">
+        <div class="capture-dialog">
+            <p id="capture-prompt">Press a key...</p>
+            <p id="capture-timeout">5</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
